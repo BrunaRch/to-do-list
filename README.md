@@ -15,6 +15,13 @@ Ele permite que os usuários adicionem, marquem como concluídas ou excluam tare
 - **CSS**: Estilização e layout responsivo.
 - **JavaScript**: Lógica de funcionamento e interação com o usuário.
 
+  ##
+Imagens do projeto:
+
+[](https://github.com/BrunaRch/to-do-list/blob/main/img/tela_adicionando_tarefas.jpeg)
+[](https://github.com/BrunaRch/to-do-list/blob/main/img/tela_tarefa_conclu%C3%ADda.jpeg)
+[](https://github.com/BrunaRch/to-do-list/blob/main/img/tela_botao_excluir.jpeg)
+
 ## **Como Usar**
 1. Faça o download ou clone este repositório:
    ```bash
